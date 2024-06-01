@@ -1,8 +1,8 @@
 
-9
-java:S1643"Use a StringBuilder instead.(ÅöÀ÷8®è–¢ı1
-9
-java:S1643"Use a StringBuilder instead.(şª Ü8¯è–¢ı1
-7
-java:S1220""Move this file to a named package.8²è–¢ı1
-L	java:S106"+Replace this use of System.out by a logger.(ı·Êôıÿÿÿÿ8Õè–¢ı1
+_
+java:S1643"Use a StringBuilder instead.(ÅöÀ÷8®è–¢ı1J$a3786ebc-712b-4c7b-a563-b1a4bd5b3407
+_
+java:S1643"Use a StringBuilder instead.(şª Ü8¯è–¢ı1J$7f115b22-8feb-4d47-a297-b8b9ac5e698c
+]
+java:S1220""Move this file to a named package.8²è–¢ı1J$1ff682ba-e523-401e-a15b-bc80a669baf0
+r	java:S106"+Replace this use of System.out by a logger.(ı·Êôıÿÿÿÿ8Õè–¢ı1J$545558c2-da40-41cf-9c63-c5d68e0d3c50
