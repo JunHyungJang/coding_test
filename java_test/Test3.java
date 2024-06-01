@@ -6,17 +6,27 @@ public class Test3 {
 
         String s = sc.nextLine();
 
-        int maxValue = 0;
+        int maxValue = 0 ,pos;
+//        int pos = 0;
         String maxString = "";
-        String[] arr= s.split(" ");
 
-        for (String ar: arr){
-            if (ar.length()> maxValue){
-                maxValue = ar.length();
-                maxString = ar;
+        while ((pos = s.indexOf(" ")) != -1){
+            System.out.println(pos);
+            String st = s.substring(0,pos);
+            System.out.println(st);
+            int len = st.length();
+
+            if (len > maxValue){
+                len = maxValue;
+                maxString = st;
             }
+
+            s = s.substring(pos+1);
         }
 
+        if (s.length() > maxValue){
+            maxString = s;
+        }
 
         System.out.println(maxString);
     }
