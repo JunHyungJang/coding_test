@@ -13,3 +13,13 @@ D
 java_test/Test2.java,1/4/14a3a0dffa0cf29506c8bf5b4d0850ed7fff2b8f
 D
 java_test/Test3.java,6/1/61e85e132845d4d2132a0a2681540ce7c030ddc0
+D
+java_test/Test4.java,4/8/48ead3bb0a15c2f268bca749f847e69247b4c52b
+D
+java_test/Test5.java,c/e/cebe3c7b294f26efcf048660cfe6a2823a633773
+D
+java_test/Test6.java,8/8/88e0a75e5e2a5660689ff6805b2718f9b933b6e1
+D
+java_test/Test7.java,c/2/c2cf849728f8c39c4fbf662d15c2be3f29f9f4a7
+D
+java_test/Test8.java,1/5/15ec109b5d15f9e5fff082e5f797ecf18ef7f4d7
