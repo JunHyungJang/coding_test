@@ -1,7 +1,7 @@
 
 ]
-java:S1220""Move this file to a named package.8²„þ¡ý1J$7071eb7e-5685-429c-bda4-d9dc0a668973
-~	java:S125"<This block of commented-out lines of code should be removed.(ž³°Ÿ8½ñƒ¢ý1J$1d8c5989-ceba-4caf-9282-d2959a241c4d
+java:S1220""Move this file to a named package.8²„þ¡ý1J$94139c1a-a949-4240-8e6c-d109c9a7486b
+~	java:S125"<This block of commented-out lines of code should be removed.(ž³°Ÿ8½ñƒ¢ý1J$6a0255f1-d0a9-490a-ab40-e2b5ddebc38d
 ¯
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¡Òí‰8Î„þ¡ý1J$08a6ef34-01b4-4ebb-9b2e-6afaa7ff6ac2
-r	java:S106"+Replace this use of System.out by a logger.(¥ªŸóøÿÿÿÿ8æàþ¡ý1J$e67e030c-c49d-4f4b-866f-d51ee40906fc
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¡Òí‰8Î„þ¡ý1J$b34b3013-eb2b-49cf-9010-6fef9b8e5ad5
+r	java:S106"+Replace this use of System.out by a logger.(¥ªŸóøÿÿÿÿ8æàþ¡ý1J$c9ce1c32-92f1-4b14-866f-8e0b6cf33ff7
