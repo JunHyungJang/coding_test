@@ -1,0 +1,7 @@
+
+V
+java:S1220""Move this file to a named package.J$19cbcbb8-40c1-48f6-89d2-782b4b85d9b8
+Z
+java:S1854"8Remove this useless assignment to local variable "word".(‹Ò—·ÿÿÿÿÿ8¾¢­¤ý1
+r	java:S106"+Replace this use of System.out by a logger.(Ò‘õ©ùÿÿÿÿ8÷­¥¤ý1J$208e756c-8eb5-4c47-9e7d-36d9a5ff8fe1
+r	java:S106"+Replace this use of System.out by a logger.(‰ú£ûûÿÿÿÿ8¡×¥¤ý1J$bbfc5e14-c362-48e4-8ee1-470e3c793d5b

@@ -1,4 +1,12 @@
 
 ]
-java:S1220""Move this file to a named package.8’¢£ı1J$cf586aa5-48d3-49a9-b01d-f14d168a043c
-m	java:S106"+Replace this use of System.out by a logger.(¹ÆÌÈ8í•Æ§ı1J$da962f17-16e0-4f0c-8c8a-c4b374e03998
+java:S1220""Move this file to a named package.8’¢£ı1J$1d858e8c-78f6-4785-a343-65f8762dd141
+Y
+java:S1854"7Remove this useless assignment to local variable "len".(—¤êñüÿÿÿÿ8É”ğ¾ı1
+=
+java:S1659	"!Declare "pos" on a separate line.(öÙ¬8Ê”ğ¾ı1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(¬øš®øÿÿÿÿ8Ì”ğ¾ı1
+r	java:S106"+Replace this use of System.out by a logger.(õƒîÿÿÿÿÿ8í•Æ§ı1J$c9d2cd97-0ca2-4105-8908-7b1ffc628e29
+L	java:S106"+Replace this use of System.out by a logger.(¼÷Èõşÿÿÿÿ8Ì”ğ¾ı1
+G	java:S106"+Replace this use of System.out by a logger.(¹ÆÌÈ8Í”ğ¾ı1
