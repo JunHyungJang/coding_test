@@ -1,6 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8ÝÆõŸý1J$ddd84cc4-18b7-4765-b949-7de2875b70ea
-¯
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¡Òí‰8ÕÏÛ¡ý1J$421f7058-6125-4fbd-b560-ede418aef20f
-r	java:S106"+Replace this use of System.out by a logger.(åÀ¼¶þÿÿÿÿ8ÖÏÛ¡ý1J$43acc558-6bc3-416f-bbd5-688447a91750
