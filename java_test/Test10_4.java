@@ -34,31 +34,23 @@ public class Test10_4 {
             blocks.add(new Block(bottom,height,weight));
         }
         Collections.sort(blocks);
-        System.out.println(blocks);
-        Block[] dp = new Block[N];
-        dp[0] = blocks.get(0);
-
-        for (int i = 1 ; i < N ; i ++){
-            System.out.println("i: " + i );
-            for (int j = i-1; j >-1; j --){
-                System.out.println("j: " + j );
-                dp[i] = dp[i-1];
-                if (blocks.get(i).weight <= dp[j].weight){
-                    System.out.println("i am small");
-                    if (dp[j].height + blocks.get(i).height > dp[i].height){
-                        Block newBlock = new Block(blocks.get(i).bottom,dp[j].height + blocks.get(i).height,blocks.get(i).weight);
-                        dp[i] = newBlock;
-                    }
+//        System.out.println(blocks);
+        int[] dp = new int[N];
+        dp[0] = blocks.get(0).height;
+        int answer = dp[0];
+        for (int i = 1 ; i < N ; i++){
+            int maxHeight = 0;
+            for (int j =i-1; j >=0; j--){
+                if (blocks.get(i).weight < blocks.get(j).weight && dp[j] > maxHeight){
+                    maxHeight = dp[j];
                 }
             }
-            System.out.println(Arrays.toString(dp));
 
-
+            dp[i] = blocks.get(i).height + maxHeight;
+            answer = Math.max(dp[i],answer);
         }
+        System.out.println(answer);
+//        System.out.println(Arrays.toString(dp));
 
-        System.out.println(Arrays.toString(dp));
-//        for (int i = 1; i < N; i ++){
-//            dp[i] =
-//        }
     }
 }
