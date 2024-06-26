@@ -1,8 +1,6 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-@
-Baekjoon/1477.py,8/5/85133a071fe7973b0d87a39a52b75c55adaa723f
 D
 java_test/Test1.java,6/1/61a2de151a46c3ba085602eabe280696a6d3e1e3
 D
@@ -49,3 +47,21 @@ F
 java_test/Test2_9.java,e/d/ed706d8266b82ad329a91ea21503c47ba1aa5e1a
 G
 java_test/Test2M10.java,d/5/d5acf082d4bf736298d714a1634b0ee8a45e49e0
+R
+"Baekjoon/Bruteforce/BOJ_18808.java,9/8/98369f61c5ac14f6cb3b7ad2833f5998a32c2100
+T
+$Baekjoon/DataStructure/BOJ_5397.java,1/c/1cae74361b3896b137921215e0b74bbbfc9433a1
+T
+$Baekjoon/DataStructure/BOJ_1202.java,5/b/5b1d4ac761500e4527562475d7961832d3012bb4
+T
+$Baekjoon/PartitionSum/BOJ_10986.java,e/7/e79cac1dc136ca16ce74e44ef4b6dbe1d7b7ec63
+K
+Baekjoon/Tree/BOJ_1068.java,f/1/f11b4f7b27e3015155b4909e849358722e3850bb
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+Å
+Q.idea/sonarlint/securityhotspotstore/2/f/2fd87cff91144f059508124b4181a635e96d5e08,e/6/e6246ab4f246f73309cd771f92459f5dd7244a57
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/9/8/98369f61c5ac14f6cb3b7ad2833f5998a32c2100,0/3/031642c70cb91fd4e4b588d76499da344122fed9

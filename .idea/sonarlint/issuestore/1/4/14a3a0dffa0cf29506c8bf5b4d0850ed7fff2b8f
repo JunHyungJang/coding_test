@@ -1,8 +1,8 @@
 
-_
-java:S1643"Use a StringBuilder instead.(ÅöÀ÷8®è–¢ı1J$b752a70a-837c-4002-8685-9bef6c16a393
-_
-java:S1643"Use a StringBuilder instead.(şª Ü8¯è–¢ı1J$0dcd5469-013a-486d-9b8d-e6c6efe2fc4e
 ]
-java:S1220""Move this file to a named package.8²è–¢ı1J$073a9303-ffed-4e45-bf6d-a64d18490e07
-r	java:S106"+Replace this use of System.out by a logger.(ı·Êôıÿÿÿÿ8Õè–¢ı1J$6230e81a-64ca-41b4-9360-32f847bcf298
+java:S1220""Move this file to a named package.8²è–¢ı1J$22d73d47-1b15-4f9d-b266-5c86475ab8de
+_
+java:S1643"Use a StringBuilder instead.(ÅöÀ÷8®è–¢ı1J$599bb895-4a53-4ffe-8c90-61b8b76735f0
+_
+java:S1643"Use a StringBuilder instead.(şª Ü8¯è–¢ı1J$068e9a36-7301-4019-a988-2e8c84860427
+r	java:S106"+Replace this use of System.out by a logger.(ı·Êôıÿÿÿÿ8Õè–¢ı1J$e777baf9-bf19-453d-bff2-b371a8ae79c2
