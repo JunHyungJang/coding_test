@@ -1,22 +1,22 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦î£òùÿÿÿÿ8³òš…2J$6049978b-ba50-4976-a9ba-7763b4b93122
-“	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„Œ…8³òš…2J$4b54bb91-3404-431b-892d-a592a40336ab
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø×ò‰ûÿÿÿÿ8³òš…2J$a837272f-6c82-4ca7-bdd5-7c9e6688698e
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦î£òùÿÿÿÿ8³òš…2J$016fd7dc-4468-4118-ba46-19aaefc740ed
+“	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„Œ…8³òš…2J$fe08a485-d86a-4d0f-b1fb-29bace4dd5e9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø×ò‰ûÿÿÿÿ8³òš…2J$0da50d61-6b58-407f-9466-2d19faa4dc78
 ”
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8³òš…2J$56960edc-fb92-425f-bcaf-39f4881ad836
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8³òš…2J$85d06807-0b2a-4d2a-87c4-a2952d9ae30c
 ”
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ï¹Åüÿÿÿÿ8³òš…2J$5d8264ff-cfdd-4d1d-a0f3-3f59a7dbe7d2
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ï¹Åüÿÿÿÿ8³òš…2J$c90d36de-1948-44e2-be97-c9b5927f5bfc
 š
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(–Â¼§şÿÿÿÿ8œ …›…2J$3495bc1a-337a-49d5-a21d-ec798ad90f77
-ƒ	java:S125%"<This block of commented-out lines of code should be removed.(˜ùóıÿÿÿÿ8çË‡›…2J$03a3f44f-4949-4c49-b861-c96f18708037
-~	java:S125*"<This block of commented-out lines of code should be removed.(Ùëƒİ8æ¸‡›…2J$1ae6735d-c512-4ebd-9982-4e6513f99726
-ƒ	java:S1257"<This block of commented-out lines of code should be removed.(ùĞÁÆûÿÿÿÿ8æ¸‡›…2J$c8b1582b-0c55-4d5d-a57c-b1a22ffd1742
-~	java:S125<"<This block of commented-out lines of code should be removed.(…‚€•8•³òš…2J$4e99299f-7c87-4a6e-a9fe-7e65e852e2fb
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(–Â¼§şÿÿÿÿ8œ …›…2J$09ea2553-3e8c-4776-91d8-08843f6bf6f2
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(˜ùóıÿÿÿÿ8çË‡›…2J$97463ba6-df4a-44d8-9d15-a91bdaf4999b
+~	java:S125*"<This block of commented-out lines of code should be removed.(Ùëƒİ8æ¸‡›…2J$84439324-4529-43f5-836f-7c20c7090a58
+ƒ	java:S1257"<This block of commented-out lines of code should be removed.(ùĞÁÆûÿÿÿÿ8æ¸‡›…2J$cf3d82c2-2168-41f4-95e2-a7075e95f2aa
+~	java:S125<"<This block of commented-out lines of code should be removed.(…‚€•8•³òš…2J$374d68f9-3a95-45c6-9d6f-afe60ecc08e0
 •
-java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8øÊŒ›…2J$8b2fcd0a-16a5-485e-9bf6-79e28557c367
-ƒ	java:S125T"<This block of commented-out lines of code should be removed.(û£Ğ™ùÿÿÿÿ8Š‘‡›…2J$81d4c679-cb1d-43a7-bf91-2bc5e3f5139f
-~	java:S125a"<This block of commented-out lines of code should be removed.(±ßõò8ŸÓ†›…2J$bd02975d-4efd-4424-9f99-1aaee14bb27a
-~	java:S125f"<This block of commented-out lines of code should be removed.(û„øº8‡ë†›…2J$77faf16a-e889-4147-be88-295761fa8024
-ƒ	java:S125m"<This block of commented-out lines of code should be removed.(©‘â³şÿÿÿÿ8™³òš…2J$432f0375-9e0c-4d9f-a5c7-45c20c1c5ac8
-~	java:S125o"<This block of commented-out lines of code should be removed.(ÄßŒ½8»÷…›…2J$f46f71a0-5ec9-495d-9ef1-b1817207553d
-m	java:S106"+Replace this use of System.out by a logger.(®õã‚8‡ËŒ›…2J$ce13d1d7-dedb-4742-bbe6-400b0873fb38
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8øÊŒ›…2J$c187f362-d126-485f-9b19-ddcb3bb74ae6
+ƒ	java:S125T"<This block of commented-out lines of code should be removed.(û£Ğ™ùÿÿÿÿ8Š‘‡›…2J$22b4887c-e561-45e8-8db0-47bb6a9ce058
+~	java:S125a"<This block of commented-out lines of code should be removed.(±ßõò8ŸÓ†›…2J$177892ca-a796-49a4-b090-d358e1542f1a
+~	java:S125f"<This block of commented-out lines of code should be removed.(û„øº8‡ë†›…2J$232aa59b-ac6b-410c-9501-195658ad4e53
+ƒ	java:S125m"<This block of commented-out lines of code should be removed.(©‘â³şÿÿÿÿ8™³òš…2J$223e2956-52fa-4a13-911c-3f8cf129a3c0
+~	java:S125o"<This block of commented-out lines of code should be removed.(ÄßŒ½8»÷…›…2J$9ad8460c-6f12-4bdd-a296-e4140d31c1da
+m	java:S106"+Replace this use of System.out by a logger.(®õã‚8‡ËŒ›…2J$c41a31da-6932-402c-a666-15503a0d129e
