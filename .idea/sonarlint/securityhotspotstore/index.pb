@@ -80,6 +80,10 @@ K
 K
 Baekjoon/Tree/BOJ_1967.java,7/f/7f645d068f4d6bccd4b6cdae8b7944c05dfb49ee
 O
-Baekjoon/Dijkstra/BOJ_1504.java,2/d/2dcd9edaab20a4adb66c354f02df38219815d288
-O
 Baekjoon/Dijkstra/BOJ_1916.java,7/3/73b62c59f0b9c9c967c797c1d1e79c7d403eec14
+L
+Baekjoon/Graph/BOJ_1005.java,7/e/7ebfb81636eddadd3cf65cccaeb4e0ad10711b3f
+T
+$Baekjoon/BackTracking/BOJ_15663.java,9/d/9db84e29bfb32d89205e76212f41cdf3c35cd2c5
+J
+Baekjoon/DP/BOJ_12738.java,c/4/c48350e4d401478d1015b5d27288005b9f002c2e
