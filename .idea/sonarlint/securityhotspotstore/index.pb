@@ -87,3 +87,7 @@ T
 $Baekjoon/BackTracking/BOJ_15663.java,9/d/9db84e29bfb32d89205e76212f41cdf3c35cd2c5
 J
 Baekjoon/DP/BOJ_12738.java,c/4/c48350e4d401478d1015b5d27288005b9f002c2e
+J
+Baekjoon/DP/BOJ_14402.java,e/1/e1e3b48d15267559fdab48425557ccd3f5ca3e95
+I
+Baekjoon/DP/BOJ_1958.java,1/7/17f66c8d71799243bf265e383fc3c233bb5f13bd
