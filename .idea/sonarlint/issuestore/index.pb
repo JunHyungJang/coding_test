@@ -91,3 +91,9 @@ J
 Baekjoon/DP/BOJ_14402.java,e/1/e1e3b48d15267559fdab48425557ccd3f5ca3e95
 I
 Baekjoon/DP/BOJ_1958.java,1/7/17f66c8d71799243bf265e383fc3c233bb5f13bd
+T
+$Baekjoon/PartitionSum/BOJ_11660.java,d/1/d182efc0ee418f9716833e40c60ed751823bf7a4
+S
+#Baekjoon/PartitionSum/BOJ_1806.java,8/8/882926d089d49558cbad9bb4a72f55a85d446578
+M
+Baekjoon/Greedy/BOJ_2212.java,6/2/62289afe253ac913a07848e2f958dd07aaad01c5
