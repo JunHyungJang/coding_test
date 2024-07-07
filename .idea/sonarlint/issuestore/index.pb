@@ -97,3 +97,5 @@ S
 #Baekjoon/PartitionSum/BOJ_1806.java,8/8/882926d089d49558cbad9bb4a72f55a85d446578
 M
 Baekjoon/Greedy/BOJ_2212.java,6/2/62289afe253ac913a07848e2f958dd07aaad01c5
+M
+Baekjoon/Greedy/BOJ_2437.java,8/1/8198b9954895aeef8daf174748d8e5d42d2cc903
