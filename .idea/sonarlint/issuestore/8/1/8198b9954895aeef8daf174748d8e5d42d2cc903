@@ -1,0 +1,6 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â’Áüÿÿÿÿ8•Ë’Éˆ2J$1cc1f9ef-cd00-437d-b1c9-e758bc71df80
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8˜Ë’Éˆ2J$571816ec-6c16-429c-8d4b-af5ee5a369d4
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ8˜Ë’Éˆ2J$9574fc13-f51b-4339-81b7-0466ec0a7956
+l
+java:S1481	")Remove this unused "maxV" local variable.(Ä¹¤É8˜Ë’Éˆ2J$ccc4eb24-2bdd-4d95-816c-953bcd0086b8

@@ -1,0 +1,23 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûƒ§ıÿÿÿÿ8Ú”ü…2J$1fa511a7-36a2-4d6f-a25f-0c193ba2f87e
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÂÙ¿8Û”ü…2J$a0a785a7-cbdc-472a-9c53-1f8236418f36
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÂÙ¿8Û”ü…2J$91f57877-1587-40aa-aadc-eab7d2699373
+˜	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¨˜åùÿÿÿÿ8Û”ü…2J$10aa4634-0f34-40af-8f46-f95a80b68ffd
+“	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¶Ã®8Û”ü…2J$7c646303-c3a8-4e8a-a800-82dd059b9e2a
+“	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØ¾¾8Û”ü…2J$516366bd-a265-43ae-a5b2-3dfa1b0647ed
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Èªú8Û”ü…2J$79304f96-7f0b-4bec-b66e-a727c6070e18
+_
+java:S1643!"Use a StringBuilder instead.(ÛÜĞá8Û”ü…2J$d1e3c8e7-0ef0-4353-8e81-fb300a200e86
+‰
+java:S1192?"FDefine a constant instead of duplicating this literal "START" 3 times.(á×É„8ÚÒ ü…2J$05b725c5-73a7-4eaf-9ea9-edc41de65460
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÁÂÙ¿8Ş”ü…2J$d88a459e-1d79-47fe-b3dc-cf0b5127fa32
+m	java:S106"+Replace this use of System.out by a logger.(Ìñ¡¨8ŠÙ•ü…2J$71f6f5a4-70f0-48c7-a227-5ad041b6e8e3
+m	java:S106"+Replace this use of System.out by a logger.(×Æáî8ù™ ü…2J$8e66163b-f05d-4766-b6f1-995215b56c29
+m	java:S106?"+Replace this use of System.out by a logger.(á×É„8ù™ ü…2J$fc682b5b-9d3b-470b-b02f-dbb70540f9b1
+r	java:S106A"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ŞÒ ü…2J$6e96d765-4785-4ecd-bd2b-a84498b27dca
+m	java:S106C"+Replace this use of System.out by a logger.(á×É„8ŞÒ ü…2J$93d87b60-fcc9-4905-ad9b-884224194b85
+r	java:S106E"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ŞÒ ü…2J$fa241ffa-dc1e-4e17-b6a7-4a3bf706b322
+m	java:S106G"+Replace this use of System.out by a logger.(á×É„8ŞÒ ü…2J$bd3fa229-81e1-4b94-b416-df0fed2f57c0
+r	java:S106I"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8–­ü…2J$bed798b1-4582-453d-bf8f-b7b85b5b7b9e
+m	java:S106P"+Replace this use of System.out by a logger.(ô¤„å8¹­ü…2J$fe4a7136-e34f-446b-9bc1-235f5d3fb572

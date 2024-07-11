@@ -1,0 +1,16 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÔÑI8‚ıïï…2J$2749b843-d9e7-404d-9e4a-3976d45a0ba5
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®–’øÿÿÿÿ8ƒıïï…2J$e19f3572-c516-437c-8993-18147f7d315a
+_
+java:S1643"Use a StringBuilder instead.(‘÷8„ıïï…2J$9dd6d425-5fd6-44d3-8979-f594214c7dce
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8…ıïï…2J$8b954b1f-9b04-4f42-9985-837f27019598
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ï¹Åüÿÿÿÿ8…ıïï…2J$dd5631f3-eeaf-4a0f-839c-031231bda7d9
+^
+java:S3626"Remove this redundant jump.(ûÁİ…8†ıïï…2J$0ba44064-21ad-4c77-ae8c-721d7fdc712b
+~	java:S125"<This block of commented-out lines of code should be removed.(¬²æÍ8‡ıïï…2J$50b5286a-385b-4e85-b1e8-70a397aca958
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(òÈòñûÿÿÿÿ8­óï…2J$8997e578-fc34-47a4-81ca-b0650fade624
+}	java:S125("<This block of commented-out lines of code should be removed.(¾Ú­x8Šıïï…2J$64369aab-7527-4ace-97e3-ab1783e3fd46
+r	java:S1067"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8Šıïï…2J$927f18a8-0d0c-44b4-9dc4-fedefe6c8204
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(œüĞÂùÿÿÿÿ8Šıïï…2J$d90fe328-544c-4324-aab5-2db235441c0f

@@ -1,0 +1,16 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºÿÏ®8ØˆÙÍ…2J$feab6b65-7dd7-4d1e-8bd2-0618ca6ea841
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ¨‰Ôúÿÿÿÿ8ØˆÙÍ…2J$421a2564-8756-4f23-9343-0cbf5a167c92
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8ÙˆÙÍ…2J$6cf645d7-8231-4a7e-9307-922ca7131a4b
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8ÙˆÙÍ…2J$1fcbc90a-6529-41c2-8d33-9d4666cd7ec3
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ï¹Åüÿÿÿÿ8ÙˆÙÍ…2J$70b04167-50e8-47d7-a321-1929a9e370fb
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ¢‹8ÛˆÙÍ…2J$d67bb0db-d9ae-4225-803b-bf60bd4958ec
+~	java:S125"<This block of commented-out lines of code should be removed.(ÍŒ’õ8ÛˆÙÍ…2J$67f5b21f-ed3f-489e-bce0-943741741f20
+¡
+java:S30129"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(“›Õ»ùÿÿÿÿ8İˆÙÍ…2J$17176889-d50d-4687-918e-49689cd0681c
+ƒ	java:S1257"<This block of commented-out lines of code should be removed.(›Ï’Ôıÿÿÿÿ8İˆÙÍ…2J$69a1dff0-fdfa-4df1-a24b-c0b62fcf5f07
+~	java:S125<"<This block of commented-out lines of code should be removed.(·˜§ş8İˆÙÍ…2J$74b720f9-a835-4bd8-b2e3-38da57983e38
+}	java:S125?"<This block of commented-out lines of code should be removed.(¡…ÒB8ŞˆÙÍ…2J$e6f7da71-981d-489a-8bf0-94e4d3164b29
+m	java:S106D"+Replace this use of System.out by a logger.(ô¤„å8ŞˆÙÍ…2J$239d9ef1-bf55-414c-936d-c1824c841a1b

@@ -1,0 +1,12 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤Úÿûüÿÿÿÿ8·ô¿É…2J$d3e41371-c461-4dd5-8b59-31a674cc7bc3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¸»öùÿÿÿÿ8·ô¿É…2J$6f6f93d5-f1ae-4d44-b440-82d4b2cc2841
+›	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(ÀŞù8¸ô¿É…2J$aa98d6e2-058e-4faa-b35f-050d36a1a4fb
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8¹ô¿É…2J$05af5afe-f5c2-4dcf-bdc3-85e09262eb8f
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ï¹Åüÿÿÿÿ8¹ô¿É…2J$81e2b9fe-90b7-44ca-8248-bcd5df3faacc
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Æü8»ô¿É…2J$4d7e65aa-e6e2-4ef3-b4d7-34a8bd55f26d
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(£Æü8»ô¿É…2J$dfeab1b0-455e-4664-b79b-527bb1552335
+m	java:S106h"+Replace this use of System.out by a logger.(ô¤„å8µŞÁÉ…2J$55caf837-018a-4369-b7e0-76d566b76e0c

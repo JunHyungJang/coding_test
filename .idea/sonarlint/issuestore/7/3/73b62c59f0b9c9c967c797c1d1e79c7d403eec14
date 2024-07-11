@@ -1,0 +1,17 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ÙÕÇıÿÿÿÿ8‹Ë«Ò…2J$9b7a1300-be2c-4dca-ad77-3db8856a6cbc
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öˆÖüÿÿÿÿ8ŒË«Ò…2J$ee330db3-e9bf-41fc-aa4b-db1fa7bceb0d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ“„ûşÿÿÿÿ8ŒË«Ò…2J$d9ca942f-f88a-4d7b-88a6-d73861c6e2ea
+œ
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Á‡Ö8ŒË«Ò…2J$e11cbff3-e206-4d17-ac90-e11be6c4abc3
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8Ë«Ò…2J$f4d798cf-3bbc-40c0-b2b6-bbad398851eb
+œ
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(½á±Ó8Ë«Ò…2J$b37041ed-d167-472d-bb16-c221b89767f4
+l
+java:S1172"*Remove this unused method parameter "end".(­§ o8’Ë«Ò…2J$1c34e282-06fd-41e8-b3ce-f335b87dcad9
+~	java:S125"<This block of commented-out lines of code should be removed.(…Óñ…8ÇÃ®Ò…2J$d219fdbd-15a3-4e16-9fa6-4b61e4e42ba8
+~	java:S125&"<This block of commented-out lines of code should be removed.(¦­‹×8Î©ÀÒ…2J$3028332a-13e0-4e43-b226-55baf3ae6198
+~	java:S125P"<This block of commented-out lines of code should be removed.(ï Ô¬8”¿Ò…2J$e1a5140e-ffb5-43b1-84cc-5fc10edafbd5
+m	java:S106Y"+Replace this use of System.out by a logger.(‚’ 8ğĞ±Ò…2J$290335e0-b009-4062-9581-d1098549e5db
+ƒ	java:S125W"<This block of commented-out lines of code should be removed.(–îæÿÿÿÿÿ8üù¿Ò…2J$04cdc16f-5ec5-4128-b150-ed6492a90491

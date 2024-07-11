@@ -1,0 +1,13 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Òµ»Œüÿÿÿÿ8€Ä®Î…2J$0af6560b-83b1-4cc8-991c-9de7fdc56270
+“	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8€Ä®Î…2J$c0bbe402-e422-448f-8a82-b197c5567cf8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ8€Ä®Î…2J$2632db6b-fe17-46f8-a2e6-b01d3dc72d33
+r	java:S106"+Replace this use of System.out by a logger.(–í˜Žúÿÿÿÿ8„Ä®Î…2J$84893a8f-85d2-405b-ad1c-84d94f0868ca
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ûóßßýÿÿÿÿ8„Ä®Î…2J$6fc8fd97-e38d-405e-b574-ddc85067dd8a
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ûóßßýÿÿÿÿ8„Ä®Î…2J$218bb963-5218-42ac-97f6-a3b764375755
+r	java:S106""+Replace this use of System.out by a logger.(–í˜Žúÿÿÿÿ8„Ä®Î…2J$9427521c-73de-4a7f-8f26-7fc64bfb91ed
+r	java:S1064"+Replace this use of System.out by a logger.(–í˜Žúÿÿÿÿ8…Ä®Î…2J$a7f80409-7045-46a1-a4ab-7b4f37f226b7
+ƒ	java:S125J"<This block of commented-out lines of code should be removed.(ãíº©øÿÿÿÿ8ˆÄ®Î…2J$dbce97be-e90c-4989-ab63-fea369e876f6
+r	java:S106O"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ˆÄ®Î…2J$b2e3c507-0595-4bc9-a793-77182b772bde
+r	java:S106Q"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ˆÄ®Î…2J$70f1b9b4-02a0-4965-a9a0-ed6789ef1f69
+r	java:S106S"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ó£¯Î…2J$5e3ad582-f450-4a0d-bcfe-fcaa3795eb39
