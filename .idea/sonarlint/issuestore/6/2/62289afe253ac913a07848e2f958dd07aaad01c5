@@ -1,7 +1,7 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ªÉüúÿÿÿÿ8…Ö’Èˆ2J$d831bc1e-00b8-4b53-99c4-5c1512fa0d9d
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8…Ö’Èˆ2J$0e4576e3-29e7-4235-92ab-fb6f32f3be6a
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öˆÖüÿÿÿÿ8…Ö’Èˆ2J$4e843c91-091c-4c00-9a22-549a19b3a696
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ8…Ö’Èˆ2J$23d219e9-cf60-4fc5-97f2-0709c35687d1
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(¤æ¬™øÿÿÿÿ8€›Èˆ2J$f2714255-6ac9-4e58-870d-9264899d8aaf
-m	java:S106$"+Replace this use of System.out by a logger.(ô¤„å8»ø–Èˆ2J$69f1f903-9ad2-4222-8d00-a4a89dbdae5f
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ªÉüúÿÿÿÿ8…Ö’Èˆ2J$4bd59a10-2ffb-490e-b93b-8ff6eb9a2d68
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8…Ö’Èˆ2J$29879ab7-958f-4e3f-9663-2e7e725745ff
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öˆÖüÿÿÿÿ8…Ö’Èˆ2J$023b984d-7ddf-4e28-bef9-d44c0e25d557
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ8…Ö’Èˆ2J$5f2663c8-c115-47ab-8b54-e65721209783
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¤æ¬™øÿÿÿÿ8€›Èˆ2J$a80b0d40-1e78-42e6-9434-c256f93d7a33
+m	java:S106$"+Replace this use of System.out by a logger.(ô¤„å8»ø–Èˆ2J$67981e9d-a577-43cc-99b3-615f6edbda6a
