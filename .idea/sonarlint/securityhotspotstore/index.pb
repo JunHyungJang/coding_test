@@ -289,3 +289,11 @@ J
 Baekjoon/DP/BOJ_12865.java,3/3/333eb109904d9672cad22923dbc1716468ec34fd
 T
 $Baekjoon/PartitionSum/BOJ_21758.java,e/8/e86edd76eae339b61ab46b7e704551a6be19556a
+T
+$Baekjoon/PartitionSum/BOJ_16139.java,5/9/59e4778e19eea42f351ea5c664c92913d42d2379
+S
+#Baekjoon/PartitionSum/BOJ_2143.java,a/f/af717e6a6db770504239378e902796d195a88951
+J
+Baekjoon/DP/BOJ_11054.java,0/f/0faa6c252af0f1aab64c2ed827de740f51ece796
+J
+Baekjoon/BFS/BOJ_2638.java,6/1/61bcc2c072e9f4dbcb8556a1bdbb886e39278673
