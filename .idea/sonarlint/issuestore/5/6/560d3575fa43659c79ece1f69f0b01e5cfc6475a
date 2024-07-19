@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(πΧ8¤½εί‹2J$ffd5f9cc-2b9d-410c-b34a-b8c19de3e349
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΒΑό8¥½εί‹2J$11af3b8d-9cf7-4fa0-93b1-4282d6a1f082
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Θªϊ8¥½εί‹2J$90491fdd-411b-41fd-a271-fe750a55fb4e
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ηµν‘8©½εί‹2J$387c236c-df87-488e-af3d-db8e6de932af
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(άΌξµϊÿÿÿÿ8ι„λί‹2J$8376e18f-22f4-44f9-80a9-cec7b698d40f
+~	java:S125/"<This block of commented-out lines of code should be removed.(ΫθΣτ8ι„λί‹2J$993fa7d3-eda0-49fd-a34b-333cc0cd3b95
+m	java:S1067"+Replace this use of System.out by a logger.(τ¤„ε8¬½εί‹2J$5b6f188e-4c64-4ebb-aeff-b7396ffee002
+ƒ	java:S1255"<This block of commented-out lines of code should be removed.(ΘΫΙιϋÿÿÿÿ8­½εί‹2J$c5b63321-74da-4283-8a35-abcac76d4212

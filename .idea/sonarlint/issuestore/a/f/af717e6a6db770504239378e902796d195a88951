@@ -1,0 +1,17 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓĞ‰Ôùÿÿÿÿ8—¶Ã§Œ2J$752fb68b-2054-49a8-8c04-54759f94b13f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò­ù×8—¶Ã§Œ2J$e99af2be-7d1e-4c30-a28a-0d75d14d4cae
+”
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øš‹¢øÿÿÿÿ8—¶Ã§Œ2J$9368f5c6-dd49-4597-9d16-b703e2fc0fb7
+”
+java:S3008
+"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸È—¦ùÿÿÿÿ8—¶Ã§Œ2J$7d0fe3e1-c8b9-48f9-bc04-e6f694833d59
+
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Š›8—¶Ã§Œ2J$0c800953-d77a-42b0-9a04-dccb0481583d
+
+java:S1845
+"FRename field "A" to prevent any misunderstanding/clash with field "a".(¸È—¦ùÿÿÿÿ8˜¶Ã§Œ2J$dbf4cdf6-4101-4ba8-ad94-2af6c881febb
+‰
+java:S1845"FRename field "B" to prevent any misunderstanding/clash with field "b".(­Š›8˜¶Ã§Œ2J$b5a2f6cc-9aab-4505-a404-d82973307ecc
+m	java:S106."+Replace this use of System.out by a logger.(ô¤„å8›¶Ã§Œ2J$edc18fd3-39b5-4fb3-8c05-614547b5ebaf
+~	java:S1255"<This block of commented-out lines of code should be removed.(š¿İí8›¶Ã§Œ2J$83c10284-b04c-4a81-97ca-5bc55f1ddba2
