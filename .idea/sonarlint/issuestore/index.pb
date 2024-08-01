@@ -551,3 +551,5 @@ w
 G.idea/sonarlint/issuestore/6/d/6d647fcede4ecd26a3ab78aede5fdfcddaf0fe8c,f/b/fb53e495468086001df7dcf228281a57e6807067
 w
 G.idea/sonarlint/issuestore/6/9/69a653b86b2dfee2db4c85493f820156f08adc41,a/d/ad277f9c97c035e57fd83dc9bcd6a4bec7c4cc41
+I
+Baekjoon/DP/BOJ_2096.java,d/3/d3b2884580579eee82fc049fad231dcf5e69ed67
