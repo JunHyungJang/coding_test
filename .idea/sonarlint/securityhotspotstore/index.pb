@@ -553,3 +553,7 @@ w
 G.idea/sonarlint/issuestore/6/9/69a653b86b2dfee2db4c85493f820156f08adc41,a/d/ad277f9c97c035e57fd83dc9bcd6a4bec7c4cc41
 I
 Baekjoon/DP/BOJ_2096.java,d/3/d3b2884580579eee82fc049fad231dcf5e69ed67
+S
+#Baekjoon/BinarySearch/BOJ_7453.java,5/e/5e109cc8ee77f3fb300461a017f86a9b51123d1e
+N
+Baekjoon/Greedy/BOJ_13975.java,8/9/89c859358adb3dceb50701cceb093e970de8461a
