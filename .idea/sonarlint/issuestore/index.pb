@@ -557,3 +557,5 @@ S
 #Baekjoon/BinarySearch/BOJ_7453.java,5/e/5e109cc8ee77f3fb300461a017f86a9b51123d1e
 N
 Baekjoon/Greedy/BOJ_13975.java,8/9/89c859358adb3dceb50701cceb093e970de8461a
+S
+#Baekjoon/PartitionSum/BOJ_1749.java,4/1/41081abaf4be703cdb34b763b772add75fa39074
