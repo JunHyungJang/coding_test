@@ -1,0 +1,15 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒ–Û¡þÿÿÿÿ8Ãíåñ‘2J$aaf61825-06ec-48de-8b6d-9ceae0ab6fb2
+“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8«ðíñ‘2J$7202669e-8599-41f4-90be-b88f3cd20e1f
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öˆÖüÿÿÿÿ8«ðíñ‘2J$2d75788f-aaa0-401a-90b5-1ee7163fecde
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò­ù×8Ãíåñ‘2J$7d662329-9532-4f74-8816-a647e946a11c
+x
+java:S1854"6Remove this useless assignment to local variable "dp".(ä½®8®±úñ‘2J$8a634cd8-7a2a-407c-90b3-a295f8979a73
+i
+java:S1481"'Remove this unused "dp" local variable.(ä½®8±±úñ‘2J$c4f00d27-d743-4b94-b367-b2ce7ec46ef8
+p	java:S108")Either remove or fill this block of code.(Ò‘ž÷ùÿÿÿÿ8íÆÉò‘2J$2fb6153c-0cd0-40da-922a-5b069076cf19
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8¢éæñ‘2J$caff69b7-106c-4714-bd95-ea4058dc5a72
+y
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8¢éæñ‘2J$f0e03e9b-bed6-4ee3-8a9b-5a657120bd8f
